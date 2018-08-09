@@ -7,17 +7,6 @@
     @show
 </head>
 <body>
-    <header>
-        @section('header')
-        @show
-    </header>
-    <div class="mainContent">
 
-    </div>
-    <footer>
-        @section('footer')
-        @show
-    </footer>
-    <script src="base.script.js"></script>
 </body>
 </html>
